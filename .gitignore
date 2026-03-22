@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments / secrets
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (never commit raw/processed datasets)
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
